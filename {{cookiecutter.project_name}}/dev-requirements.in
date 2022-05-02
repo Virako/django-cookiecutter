@@ -1,4 +1,6 @@
 black
+coverage
 isort
 pip-tools
 flake8
+pytest
